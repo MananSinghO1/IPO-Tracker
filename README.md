@@ -40,13 +40,6 @@ The project focuses on analyzing **IPO performance across sectors** by:
 
 ---
 
-## 🛠️ Tech Stack  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Design**: Futuristic UI with background visuals and modern typography  
-- **Version Control**: GitHub  
-
----
-
 ## 👨‍💻 Author
 - Manan Singh
 - MBA (Finance & Marketing), Delhi School of Management
