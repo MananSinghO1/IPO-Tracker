@@ -44,4 +44,5 @@ The project focuses on analyzing **IPO performance across sectors** by:
 - Manan Singh
 - MBA (Finance & Marketing), Delhi School of Management
 - Experience in Investment Banking, Venture Capital & Financial Modeling
-- Passionate about building tech-driven financial solutions
+- mananmahi.mahi@gmail.com
+- www.linkedin.com/in/ms01/
